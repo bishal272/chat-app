@@ -1,0 +1,13 @@
+.parent {
+  margin: 100px auto;
+  max-width: 600px;
+
+  background-color: #ccc;
+  border-radius: 3px;
+}
+.child {
+   text-align: center;
+    padding:50px 100px;
+    height: 150px;
+    margin:  auto;
+}
